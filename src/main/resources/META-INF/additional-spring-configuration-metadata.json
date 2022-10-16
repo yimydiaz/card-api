@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "titulares.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'titulares.api.url'"
+  },
+  {
+    "name": "cors.urls",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.urls'"
+  }
+]}
